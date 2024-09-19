@@ -1,0 +1,12 @@
+.weather{
+    border-radius: 0.5rem;
+    color: rgba(255, 255, 255, 0.945);
+    opacity: 0.9;
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.44);
+}
+.weather:hover{
+    opacity: 1;
+}
+.seachBox{
+    border: none;
+}
